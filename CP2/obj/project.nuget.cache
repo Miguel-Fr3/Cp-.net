@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "J2OFppfPwLKzBVnDhihBa9Tsd1S9vfEQ2/hCYIIuTETGWDwDi9u59kzcmM2/b2IeTBpKzGv/M7s4jg2W3AiQ/Q==",
+  "dgSpecHash": "xId17HQcjt/+mmJs43zdwOYvcw8SMSUNz7yl+qNd7aQrrxVTGS8litxc/N0537TOlcdi+pNuEVYi19rnlG4YzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Área de Trabalho\\CP2 .NET\\CP2\\CP2.csproj",
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\cp\\Cp-.net\\CP2\\CP2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alber\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\alber\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\alber\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\alber\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
   ],
   "logs": []
 }
